@@ -1,5 +1,7 @@
 title: Root Scene
 new-page: true
+min-choices: 3
+max-choices: 3
 
 Once upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
@@ -7,6 +9,6 @@ Over many a quaint and curious volume of forgotten lore—
 As of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
             Only this and nothing more.”
-            
+
 # Scenes with a top tag can be displayed here.
 - #top
