@@ -1,7 +1,7 @@
 title: Root Scene
 new-page: true
-min-choices: 3
-max-choices: 3
+#min-choices: 3
+#max-choices: 3
 
 Once upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
